@@ -89,7 +89,7 @@ To help users see it in action, add a demo video in this section.
 You can either:
 
 - Upload the video to your repo and embed it like this:  
-  `![Demo Video]([demo.gif](https://github.com/SudipBera083/Text-Editor-By-BonggoHriday/blob/main/assets/demo.mp4))`  
+  `[Demo Video](https://github.com/SudipBera083/Text-Editor-By-BonggoHriday/blob/main/assets/demo.mp4)`  
 
 ---
 
