@@ -88,8 +88,9 @@ The editor window will open — start typing, saving, and exploring features.
 To help users see it in action, add a demo video in this section.  
 You can either:
 
-- Upload the video to your repo and embed it like this:  
-  `[Demo Video](https://github.com/SudipBera083/Text-Editor-By-BonggoHriday/blob/main/assets/demo.mp4)`  
+- Upload the video to your repo and embed it like this:
+- ![Demo Video](https://github.com/SudipBera083/Text-Editor-By-BonggoHriday/blob/main/assets/demo.mp4)
+ 
 
 ---
 
