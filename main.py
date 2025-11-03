@@ -76,7 +76,9 @@ if __name__ =='__main__':
     # Basic code of tkinter
     root = Tk()
     root.title("Text Editor By Code With BonggoHriday")
-    root.wm_iconbitmap("G:/Study Materials for Python/tkinter Tutorial/text editor/icon.ico")
+    #  icons
+    # root.wm_iconbitmap("logo.ico")
+
     root.geometry("644x500")
 
 
